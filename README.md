@@ -6,7 +6,7 @@
 <br />
 
 <div align="center">
-    <strong>The awesome collection of 172+ Codex subagents across 13 categories.</strong>
+    <strong>The awesome collection of 175+ Codex subagents across 13 categories.</strong>
     <br />
     <br />
 </div>
@@ -15,7 +15,7 @@
 <div align="center">
     
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Subagent Count](https://img.shields.io/badge/subagents-172-blue?style=classic)
+![Subagent Count](https://img.shields.io/badge/subagents-175-blue?style=classic)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-codex-subagents?label=Last%20update&style=classic)](https://github.com/VoltAgent/awesome-codex-subagents)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
@@ -204,12 +204,13 @@ DevOps, cloud, and deployment specialists.
 - [**windows-infra-admin**](categories/03-infrastructure/windows-infra-admin.toml) - Active Directory, DNS, DHCP, and GPO automation specialist
 
 <details>
-<summary><b>04. Quality & Security</b> — Testing, security, and code quality experts (19 agents)</summary>
+<summary><b>04. Quality & Security</b> — Testing, security, and code quality experts (20 agents)</summary>
 
 ### [04. Quality & Security](categories/04-quality-security/)
 
 - [**accessibility-tester**](categories/04-quality-security/accessibility-tester.toml) - A11y compliance expert
 - [**ad-security-reviewer**](categories/04-quality-security/ad-security-reviewer.toml) - Active Directory security and GPO audit specialist
+- [**anti-ui-slop-reviewer**](categories/04-quality-security/anti-ui-slop-reviewer.toml) - Product-specific UI finish-gate reviewer
 - [**ai-writing-auditor**](categories/04-quality-security/ai-writing-auditor.toml) - AI writing pattern auditor and rewriter
 - [**architect-reviewer**](categories/04-quality-security/architect-reviewer.toml) - Architecture review specialist
 - [**browser-debugger**](categories/04-quality-security/browser-debugger.toml) - Browser-based reproduction and client-side debugging
